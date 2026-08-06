@@ -1,5 +1,5 @@
 <!-- ═══════════════════════════ HEADER BANNER ═══════════════════════════ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=6,11,20&text=Devany%20Aguslia&fontColor=ffffff&fontSize=52&fontAlign=50&fontAlignY=36&desc=AI%20Engineer%20%E2%80%A2%20Project%20Manager%20%E2%80%A2%20Fullstack%20Developer&descAlign=50&descAlignY=58&descSize=16&animation=fadeIn" alt="banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:2E1065,35:5B21B6,70:8B5CF6,100:C084FC&text=Devany%20Aguslia&fontColor=ffffff&fontSize=52&fontAlign=50&fontAlignY=36&desc=AI%20Engineer%20%E2%80%A2%20Project%20Manager%20%E2%80%A2%20Fullstack%20Developer&descAlign=50&descAlignY=58&descSize=16&animation=fadeIn" alt="banner" />
 
 <!-- ═══════════════════════════ TYPING ANIMATION ═══════════════════════════ -->
 <div align="center">
@@ -44,7 +44,7 @@ location: Jakarta, Indonesia 🇮🇩
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=6,11,20" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:4C1D95,50:A855F7,100:22D3EE" />
 
 <!-- ═══════════════════════════ TECH STACK ═══════════════════════════ -->
 
@@ -117,7 +117,7 @@ location: Jakarta, Indonesia 🇮🇩
 </div>
 </details>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=6,11,20" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:4C1D95,50:A855F7,100:22D3EE" />
 
 <!-- ═══════════════════════════ GITHUB ANALYTICS ═══════════════════════════ -->
 
@@ -125,8 +125,8 @@ location: Jakarta, Indonesia 🇮🇩
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=DevanyAguslia&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=C9D1D9&icon_color=22D3EE&ring_color=A855F7&border_radius=12" alt="GitHub Stats" />
-<img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevanyAguslia&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=C9D1D9&border_radius=12" alt="Top Languages" />
+<img width="49%" src="https://github-readme-stats-one-bice.vercel.app/api?username=DevanyAguslia&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=C9D1D9&icon_color=22D3EE&ring_color=A855F7&border_radius=12" alt="GitHub Stats" />
+<img width="41%" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=DevanyAguslia&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=C9D1D9&border_radius=12" alt="Top Languages" />
 
 <br/><br/>
 
@@ -158,7 +158,7 @@ location: Jakarta, Indonesia 🇮🇩
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=6,11,20" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:4C1D95,50:A855F7,100:22D3EE" />
 
 <!-- ═══════════════════════════ CURRENTLY ═══════════════════════════ -->
 
@@ -187,7 +187,7 @@ Research in progress
 </tr>
 </table>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=6,11,20" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:4C1D95,50:A855F7,100:22D3EE" />
 
 <!-- ═══════════════════════════ CONNECT ═══════════════════════════ -->
 
@@ -212,7 +212,7 @@ Research in progress
 
 <!-- ═══════════════════════════ FOOTER ═══════════════════════════ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=gradient&customColorList=6,11,20&text=Thanks%20for%20stopping%20by!&fontColor=ffffff&fontSize=24&fontAlignY=72&animation=twinkling" alt="footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:C084FC,30:8B5CF6,65:5B21B6,100:2E1065&text=Thanks%20for%20stopping%20by!&fontColor=ffffff&fontSize=24&fontAlignY=72&animation=twinkling" alt="footer" />
 
 <div align="center">
 <sub>Made with 💜 by <a href="https://github.com/DevanyAguslia">Devany Aguslia</a></sub>
