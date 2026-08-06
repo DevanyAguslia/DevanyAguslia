@@ -30,7 +30,7 @@ location: Jakarta, Indonesia 🇮🇩
 
 - 🧠 &nbsp;Building **AI/ML systems** — from data pipelines to deployed models
 - 📋 &nbsp;Bridging **tech & people** as a Project Manager
-- 🎓 &nbsp;Undergraduate in **Teknik Informatika, Universitas Tarumanagara**
+- 🎓 &nbsp;Undergraduate in **Computer Science, Universitas Tarumanagara**
 - 💻 &nbsp;Comfortable across the **fullstack** — frontend, backend, and everything between
 - 🤝 &nbsp;Open to collaborate on **AI, Data, and Web projects**
 - 🌱 &nbsp;Currently exploring **LLMs, RAG systems, and MLOps**
@@ -108,8 +108,6 @@ location: Jakarta, Indonesia 🇮🇩
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=trello&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white)
-![Miro](https://img.shields.io/badge/Miro-FFD02F?style=flat-square&logo=miro&logoColor=black)
 ![Google Workspace](https://img.shields.io/badge/Google%20Workspace-4285F4?style=flat-square&logo=google&logoColor=white)
 
 **Methodologies:** `Agile` · `Scrum` · `Kanban` · `Waterfall`
@@ -180,7 +178,7 @@ Campus & side projects
 </td>
 <td width="33%" align="center">
 <h3>🎓 Thesis 2026</h3>
-Working on my <b>skripsi</b><br/>
+Working on my <b>Thesis</b><br/>
 Field: <b>NLP &amp; AI</b><br/>
 Research in progress
 </td>
