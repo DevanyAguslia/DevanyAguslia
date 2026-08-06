@@ -4,7 +4,7 @@
 <!-- ═══════════════════════════ TYPING ANIMATION ═══════════════════════════ -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&random=false&width=650&lines=Hi+there!+I'm+Devany+Aguslia+%F0%9F%91%8B;AI+Engineer+%7C+Project+Manager;Informatics+Engineering+%40+Untar;Turning+ideas+into+intelligent+systems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&random=false&width=650&lines=Hi+there!+I'm+Devany+Aguslia+%F0%9F%91%8B;AI+Engineer+%7C+Project+Manager;Computer+Science+%40+Untar;Turning+ideas+into+intelligent+systems)](https://git.io/typing-svg)
 
 <!-- ═══════════════════════════ TOP BADGES ═══════════════════════════ -->
 
@@ -24,7 +24,7 @@
 ```yaml
 name: Devany Aguslia
 role: AI Engineer & Project Manager
-education: Informatics Engineering @ Universitas Tarumanagara
+education: Computer Science at Universitas Tarumanagara
 location: Jakarta, Indonesia 🇮🇩
 ```
 
@@ -178,9 +178,9 @@ Campus & side projects
 </td>
 <td width="33%" align="center">
 <h3>🎓 Thesis 2026</h3>
-Working on my <b>Thesis</b><br/>
+Currently researching<br/>
 Field: <b>NLP &amp; AI</b><br/>
-Research in progress
+In progress
 </td>
 </tr>
 </table>
@@ -196,7 +196,7 @@ Research in progress
 <a href="https://www.linkedin.com/in/devany-aguslia" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-<a href="mailto:devanyagusliaa@gmail.com">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=devanyagusliaa@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
 <a href="https://www.instagram.com/devany.aguslia" target="_blank">
