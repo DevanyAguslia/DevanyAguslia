@@ -139,7 +139,9 @@ location: Jakarta, Indonesia 🇮🇩
 
 <br/>
 
-<img width="98%" src="https://github-profile-trophy.vercel.app/?username=DevanyAguslia&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="Trophies" />
+<img src="https://img.shields.io/github/stars/DevanyAguslia?style=for-the-badge&logo=github&label=TOTAL%20STARS&color=A855F7&labelColor=0D1117" alt="stars" />
+<img src="https://img.shields.io/github/followers/DevanyAguslia?style=for-the-badge&logo=github&label=FOLLOWERS&color=22D3EE&labelColor=0D1117" alt="followers" />
+<img src="https://img.shields.io/badge/OPEN%20TO-COLLABORATION-A855F7?style=for-the-badge&labelColor=0D1117" alt="open to collab" />
 
 </div>
 
@@ -177,10 +179,10 @@ Data pipelines<br/>
 Campus & side projects
 </td>
 <td width="33%" align="center">
-<h3>🎯 Goals 2026</h3>
-Ship 3 open-source tools<br/>
-Earn a cloud certification<br/>
-Mentor junior devs
+<h3>🎓 Thesis 2026</h3>
+Working on my <b>skripsi</b><br/>
+Field: <b>NLP &amp; AI</b><br/>
+Research in progress
 </td>
 </tr>
 </table>
@@ -205,10 +207,6 @@ Mentor junior devs
 <a href="https://github.com/DevanyAguslia" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
-
-<br/><br/>
-
-**💬 Best way to reach me:** LinkedIn or email — I usually reply within a day.
 
 </div>
 
