@@ -129,9 +129,7 @@ location: Jakarta, Indonesia 🇮🇩
 <br/><br/>
 
 <!-- 🔥 STREAK — the important one -->
-<a href="https://git.io/streak-stats">
-  <img width="60%" src="https://streak-stats.demolab.com/?user=DevanyAguslia&theme=dark&hide_border=true" alt="GitHub Streak" />
-</a>
+<img width="60%" src="https://streak-stats.demolab.com?user=DevanyAguslia&hide_border=true&background=0D1117&stroke=A855F7&ring=22D3EE&fire=A855F7&currStreakLabel=22D3EE&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=C9D1D9&dates=8B949E&border_radius=12" alt="GitHub Streak" />
 
 <br/><br/>
 
