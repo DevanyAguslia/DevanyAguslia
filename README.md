@@ -187,7 +187,7 @@ In progress
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:4C1D95,50:A855F7,100:22D3EE" />
 
-<!-- ═══════════════════════════ CONNECT ═══════════════════════════ -->
+<!-- ═══════════════════════════ CONNECT FOOTER ═══════════════════════════ -->
 
 ## <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="28"> &nbsp;Let's Connect
 
